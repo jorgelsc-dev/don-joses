@@ -24,5 +24,6 @@ El workflow de GitHub Actions está en `.github/workflows/deploy.yml` y publica 
 
 ## Datos y CMS ligero
 - `src/data/menu.json` contiene el menú estructurado.
-- `src/data/site.json` contiene teléfono, dirección y enlace a Google Maps (se tomó de `Info/GoogleMaps`).
+- `src/data/site.json` contiene teléfono, dirección, enlace a Google Maps y presencia online descubierta en Google resultados web.
+- `IDENTITY_MANUAL.md` contiene la guía de identidad visual basada en `Info/GoogleMaps` y `Info/menú don jose.pdf`.
 
