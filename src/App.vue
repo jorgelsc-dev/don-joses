@@ -4,6 +4,7 @@
     <nav style="padding:1rem;display:flex;gap:1rem;align-items:center;justify-content:center;">
       <a href="/" style="font-weight:700;color:inherit;text-decoration:none">Don José's</a>
       <a href="/menu" style="text-decoration:none">Menú</a>
+      <a href="/gallery" style="text-decoration:none">Galería</a>
       <a href="/about" style="text-decoration:none">Sobre</a>
       <a href="/contact" style="text-decoration:none">Contacto</a>
       <a href="/booking" style="text-decoration:none">Reservas</a>
