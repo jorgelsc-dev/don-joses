@@ -8,8 +8,43 @@
       name="description"
       content="Restaurante Don José's: cocina casera, sabores auténticos y ambiente acogedor."
     />
-    <script type="module" crossorigin src="./assets/index-CGhG2kvO.js"></script>
-    <link rel="stylesheet" crossorigin href="./assets/index-DkIyp5D-.css">
+    <meta property="og:title" content="Don José's" />
+    <meta property="og:description" content="Sabores caseros, ingredientes frescos y tradición familiar." />
+    <meta property="og:type" content="website" />
+    <meta property="og:url" content="https://don-joses.jorgelsc.dev/" />
+    <meta property="og:image" content="/assets/og-image.png" />
+    <meta name="twitter:card" content="summary_large_image" />
+
+    <!-- JSON-LD Restaurant -->
+    <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "Restaurant",
+      "name": "Don José's",
+      "url": "https://don-joses.jorgelsc.dev/",
+      "logo": "https://don-joses.jorgelsc.dev/assets/og-image.png",
+      "telephone": "+5491112345678",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Calle Falsa 123",
+        "addressLocality": "Ciudad",
+        "addressCountry": "AR"
+      },
+      "openingHours": ["Mo-Su 11:00-23:00"],
+      "priceRange": "$$",
+      "servesCuisine": "Comida casera"
+    }
+    </script>
+    <!-- Google Analytics 4: replace MEASUREMENT_ID with your ID -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=MEASUREMENT_ID"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+      gtag('config', 'MEASUREMENT_ID');
+    </script>
+    <script type="module" crossorigin src="./assets/index-AGE1Diwr.js"></script>
+    <link rel="stylesheet" crossorigin href="./assets/index-DKUNL_jn.css">
   </head>
   <body>
     <div id="app"></div>

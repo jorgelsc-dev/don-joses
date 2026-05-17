@@ -1,51 +1,18 @@
 <template>
-  <main class="page-shell">
-    <header class="hero">
-      <div class="hero-content">
-        <p class="eyebrow">Restaurante</p>
-        <h1>Don José's</h1>
-        <p class="subtitle">
-          Sabores caseros, ingredientes frescos y tradición familiar en cada plato.
-        </p>
-        <div class="actions">
-          <a href="#menu" class="button">Ver menú</a>
-          <a href="#contacto" class="button secondary">Reservar mesa</a>
-        </div>
-      </div>
-    </header>
-
-    <section id="menu" class="section cards">
-      <article class="card">
-        <h2>Especialidad</h2>
-        <p>Paella de mariscos con toque secreto de la casa.</p>
-      </article>
-      <article class="card">
-        <h2>Entradas</h2>
-        <p>Empanadas criollas, ensalada fresca y sopa del día.</p>
-      </article>
-      <article class="card">
-        <h2>Postres</h2>
-        <p>Tarta de queso, flan casero y helado artesanal.</p>
-      </article>
-    </section>
-
-    <section id="contacto" class="section contact">
-      <div>
-        <h2>Contacto</h2>
-        <p>Visítanos en la calle principal o haz tu reserva por teléfono.</p>
-      </div>
-      <div class="contact-details">
-        <div>
-          <strong>Dirección</strong>
-          <p>Calle Falsa 123, Ciudad</p>
-        </div>
-        <div>
-          <strong>Teléfono</strong>
-          <p>+54 9 11 1234 5678</p>
-        </div>
-      </div>
-    </section>
-  </main>
+  <div>
+    <a class="skip-link" href="#content" style="position:absolute;left:-9999px;top:auto;width:1px;height:1px;overflow:hidden;">Saltar al contenido</a>
+    <nav style="padding:1rem;display:flex;gap:1rem;align-items:center;justify-content:center;">
+      <a href="/" style="font-weight:700;color:inherit;text-decoration:none">Don José's</a>
+      <a href="/menu" style="text-decoration:none">Menú</a>
+      <a href="/about" style="text-decoration:none">Sobre</a>
+      <a href="/contact" style="text-decoration:none">Contacto</a>
+      <a href="/booking" style="text-decoration:none">Reservas</a>
+    </nav>
+    <router-view />
+    <footer style="text-align:center;padding:2rem 1rem;background:#fff4ec;margin-top:2rem;">
+      <small>© Don José's — Todos los derechos reservados</small>
+    </footer>
+  </div>
 </template>
 
 <script setup>

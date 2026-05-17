@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://don-joses.jorgelsc.dev/sitemap.xml
