@@ -5,16 +5,5 @@
 !docs/
 !docs/**
 
-# Keep project files and source code
+# Keep the .gitignore file itself
 !.gitignore
-!package.json
-!vite.config.js
-!index.html
-!README.md
-!src/
-!src/**
-
-# Ignore node_modules and local environment files
-node_modules/
-.env
-.env.*
