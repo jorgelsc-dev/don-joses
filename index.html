@@ -14,7 +14,7 @@
     <meta property="og:description" content="Sabores caseros, ingredientes frescos y tradición familiar." />
     <meta property="og:type" content="website" />
     <meta property="og:url" content="https://don-joses.jorgelsc.dev/" />
-    <meta property="og:image" content="/assets/og-image.png" />
+    <meta property="og:image" content="/icons/icon-512x512.png" />
     <meta name="twitter:card" content="summary_large_image" />
     <meta name="theme-color" content="#c84b31" />
     <link rel="icon" href="/favicon.ico" />
@@ -30,7 +30,7 @@
       "@type": "Restaurant",
       "name": "Don Jose's",
       "url": "https://don-joses.jorgelsc.dev/",
-      "logo": "https://don-joses.jorgelsc.dev/assets/og-image.png",
+      "logo": "https://don-joses.jorgelsc.dev/icons/icon-512x512.png",
       "telephone": "+18508956169",
       "address": {
         "@type": "PostalAddress",
@@ -52,6 +52,21 @@
       function gtag(){dataLayer.push(arguments);}
       gtag('js', new Date());
       gtag('config', 'MEASUREMENT_ID');
+    </script>
+    <script>
+      // Recover client-side routes redirected via public/404.html on GitHub Pages.
+      (function (l) {
+        if (l.search.length > 1 && l.search[1] === '/') {
+          var decoded = l.search
+            .slice(1)
+            .split('&')
+            .map(function (part) {
+              return part.replace(/~and~/g, '&')
+            })
+            .join('?')
+          window.history.replaceState(null, '', l.pathname.slice(0, -1) + decoded + l.hash)
+        }
+      })(window.location)
     </script>
   </head>
   <body>
