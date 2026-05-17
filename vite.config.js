@@ -11,9 +11,9 @@ export default defineConfig({
       injectRegister: 'auto',
       includeAssets: ['favicon.ico', 'robots.txt', 'icons/*.png'],
       manifest: {
-        name: "Don José's",
-        short_name: "Don José's",
-        description: "Restaurante Don José's: cocina casera, sabores auténticos y ambiente acogedor.",
+        name: "Don Jose's",
+        short_name: "Don Jose's",
+        description: "Restaurante Don Jose's: cocina casera, sabores auténticos y ambiente acogedor.",
         theme_color: '#c84b31',
         background_color: '#f5f3f1',
         display: 'standalone',
