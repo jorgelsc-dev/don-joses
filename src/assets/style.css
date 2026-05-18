@@ -80,15 +80,14 @@ textarea {
 .site-brand a {
   display: inline-flex;
   align-items: center;
-  gap: 0.6rem;
-  font-size: 1.3rem;
-  font-weight: 800;
-  letter-spacing: 0.03em;
+  line-height: 1;
 }
 
-.brand-mark {
+.brand-logo {
+  width: clamp(150px, 21vw, 220px);
+  height: auto;
   border-radius: 10px;
-  box-shadow: 0 6px 16px rgba(29, 53, 87, 0.24);
+  box-shadow: 0 6px 16px rgba(29, 53, 87, 0.22);
 }
 
 .site-nav {
@@ -259,7 +258,6 @@ h1 {
 
 .contact-details div,
 .form-card,
-.gallery-card,
 .menu-card {
   background: white;
   border-radius: 24px;
@@ -277,20 +275,6 @@ h1 {
   display: grid;
   gap: 1.5rem;
   grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
-}
-
-.gallery-card {
-  min-height: 220px;
-  border-radius: 24px;
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  padding: 1.5rem;
-  background: linear-gradient(135deg, #f8c8a0, #e26a3c);
-  color: white;
-  font-weight: 700;
-  text-transform: uppercase;
-  text-align: center;
 }
 
 form {

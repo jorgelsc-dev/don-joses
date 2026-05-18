@@ -4,8 +4,14 @@
     <header class="site-header">
       <div class="site-brand">
         <router-link to="/" class="brand-link">
-          <img src="/icons/icon-72x72.png" alt="" width="36" height="36" class="brand-mark" />
-          <span>Don Jose's</span>
+          <img
+            src="/images/logo-don-joses.webp"
+            alt="Don Jose's home-style cuban cuisine"
+            width="220"
+            height="78"
+            class="brand-logo"
+            fetchpriority="high"
+          />
         </router-link>
       </div>
       <nav class="site-nav" aria-label="Navegación principal">
