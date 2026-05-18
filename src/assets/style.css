@@ -16,6 +16,8 @@
   --brand-soft: #f4a261;
   --ink-deep: #1d3557;
   --line: rgba(34, 40, 49, 0.12);
+  --content-max: 1160px;
+  --gutter: clamp(1rem, 3vw, 1.75rem);
   font-family: Manrope, 'Segoe UI', Tahoma, sans-serif;
   color: var(--bg-ink);
   background: var(--bg);
@@ -87,7 +89,7 @@ textarea {
   justify-content: space-between;
   align-items: center;
   gap: 1rem;
-  padding: 1.2rem 1.5rem;
+  padding: 1rem var(--gutter);
   background: rgba(255, 255, 255, 0.94);
   backdrop-filter: blur(14px);
   position: sticky;
@@ -112,7 +114,7 @@ textarea {
 .site-nav {
   display: flex;
   flex-wrap: wrap;
-  justify-content: center;
+  justify-content: flex-end;
   gap: 1rem;
 }
 
@@ -233,7 +235,9 @@ h1 {
 }
 
 .section {
-  padding: clamp(2rem, 4vw, 4rem) 1.5rem;
+  width: min(var(--content-max), 100%);
+  margin: 0 auto;
+  padding: clamp(1.75rem, 3vw, 3.2rem) var(--gutter);
 }
 
 .section h1,
@@ -244,7 +248,7 @@ h1 {
 .cards {
   display: grid;
   gap: 1.5rem;
-  max-width: 1120px;
+  max-width: var(--content-max);
   margin: 0 auto;
 }
 
@@ -336,6 +340,35 @@ textarea {
   padding: 2rem;
 }
 
+.whatsapp-link {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.45rem;
+  font-weight: 700;
+  color: #188a42;
+}
+
+.button.whatsapp-cta {
+  gap: 0.5rem;
+}
+
+.button.whatsapp-cta .whatsapp-icon {
+  width: 1.15rem;
+  height: 1.15rem;
+}
+
+.visually-hidden {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  padding: 0;
+  margin: -1px;
+  overflow: hidden;
+  clip: rect(0, 0, 0, 0);
+  white-space: nowrap;
+  border: 0;
+}
+
 @media (min-width: 720px) {
   .cards {
     grid-template-columns: repeat(3, minmax(0, 1fr));
@@ -350,10 +383,25 @@ textarea {
 @media (max-width: 720px) {
   .site-header {
     flex-direction: column;
-    align-items: stretch;
+    align-items: center;
+    gap: 0.8rem;
+    padding-bottom: 0.95rem;
   }
 
   .site-nav {
+    width: 100%;
     justify-content: center;
+    display: grid;
+    grid-template-columns: repeat(3, minmax(0, 1fr));
+    gap: 0.55rem;
+  }
+
+  .site-nav a {
+    text-align: center;
+    padding: 0.65rem 0.45rem;
+  }
+
+  .brand-logo {
+    width: clamp(104px, 35vw, 138px);
   }
 }
