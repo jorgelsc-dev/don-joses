@@ -13,7 +13,7 @@ export default defineConfig({
       manifest: {
         name: "Don Jose's",
         short_name: "Don Jose's",
-        description: "Restaurante Don Jose's: cocina casera, sabores auténticos y ambiente acogedor.",
+        description: "Don Jose's Cuban Cuisine: authentic home-style Cuban food in Panama City, FL.",
         theme_color: '#c84b31',
         background_color: '#f5f3f1',
         display: 'standalone',
