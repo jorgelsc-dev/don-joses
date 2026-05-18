@@ -1,0 +1,27 @@
+[
+  {
+    "slug": "empanadas",
+    "item": "Empanadas",
+    "query": "cuban empanadas food photograph filemime:image/jpeg",
+    "generated": {
+      "jpg": "public/images/empanadas.jpg",
+      "webp": "public/images/empanadas.webp"
+    },
+    "source": {
+      "title": "File:El Cubo de Cuba, Portland, Oregon (2022) - 5.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/3/3c/El_Cubo_de_Cuba%2C_Portland%2C_Oregon_%282022%29_-_5.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/El_Cubo_de_Cuba%2C_Portland%2C_Oregon_%282022%29_-_5.jpg/1920px-El_Cubo_de_Cuba%2C_Portland%2C_Oregon_%282022%29_-_5.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "download_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/El_Cubo_de_Cuba%2C_Portland%2C_Oregon_%282022%29_-_5.jpg/1920px-El_Cubo_de_Cuba%2C_Portland%2C_Oregon_%282022%29_-_5.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "descriptionurl": "https://commons.wikimedia.org/wiki/File:El_Cubo_de_Cuba,_Portland,_Oregon_(2022)_-_5.jpg",
+      "mime": "image/jpeg",
+      "width": 2988,
+      "height": 5312,
+      "size": 3847656,
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "artist": "Another Believer",
+      "attribution": ""
+    },
+    "fetched_at": "2026-05-18T12:55:44Z"
+  }
+]
