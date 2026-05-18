@@ -2,26 +2,251 @@
   {
     "slug": "empanadas",
     "item": "Empanadas",
-    "query": "cuban empanadas food photograph filemime:image/jpeg",
+    "query": "cuban empanadas food",
     "generated": {
       "jpg": "public/images/empanadas.jpg",
       "webp": "public/images/empanadas.webp"
     },
     "source": {
-      "title": "File:El Cubo de Cuba, Portland, Oregon (2022) - 5.jpg",
-      "url": "https://upload.wikimedia.org/wikipedia/commons/3/3c/El_Cubo_de_Cuba%2C_Portland%2C_Oregon_%282022%29_-_5.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-      "thumburl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/El_Cubo_de_Cuba%2C_Portland%2C_Oregon_%282022%29_-_5.jpg/1920px-El_Cubo_de_Cuba%2C_Portland%2C_Oregon_%282022%29_-_5.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "download_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/El_Cubo_de_Cuba%2C_Portland%2C_Oregon_%282022%29_-_5.jpg/1920px-El_Cubo_de_Cuba%2C_Portland%2C_Oregon_%282022%29_-_5.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-      "descriptionurl": "https://commons.wikimedia.org/wiki/File:El_Cubo_de_Cuba,_Portland,_Oregon_(2022)_-_5.jpg",
+      "title": "File:Cuban Food Empenadas ?.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/d/d3/Cuban_Food_Empenadas_%3F.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "thumburl": "https://upload.wikimedia.org/wikipedia/commons/d/d3/Cuban_Food_Empenadas_%3F.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "download_url": "https://upload.wikimedia.org/wikipedia/commons/d/d3/Cuban_Food_Empenadas_%3F.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "descriptionurl": "https://commons.wikimedia.org/wiki/File:Cuban_Food_Empenadas_%3F.jpg",
       "mime": "image/jpeg",
-      "width": 2988,
-      "height": 5312,
-      "size": 3847656,
-      "license": "CC BY-SA 4.0",
-      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
-      "artist": "Another Believer",
+      "width": 2222,
+      "height": 1481,
+      "size": 338973,
+      "license": "CC BY 2.0",
+      "license_url": "https://creativecommons.org/licenses/by/2.0",
+      "artist": "ryanmerritt",
       "attribution": ""
     },
-    "fetched_at": "2026-05-18T12:55:44Z"
+    "fetched_at": "2026-05-18T15:27:08Z"
+  },
+  {
+    "slug": "ropa-vieja",
+    "item": "Ropa Vieja",
+    "query": "cuban ropa vieja food",
+    "generated": {
+      "jpg": "public/images/ropa-vieja.jpg",
+      "webp": "public/images/ropa-vieja.webp"
+    },
+    "source": {
+      "title": "File:MyPlate gov Cultural Food (20241025-USDA-FNS-UNK-0069).jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/a/ad/MyPlate_gov_Cultural_Food_%2820241025-USDA-FNS-UNK-0069%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "thumburl": "https://upload.wikimedia.org/wikipedia/commons/a/ad/MyPlate_gov_Cultural_Food_%2820241025-USDA-FNS-UNK-0069%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "download_url": "https://upload.wikimedia.org/wikipedia/commons/a/ad/MyPlate_gov_Cultural_Food_%2820241025-USDA-FNS-UNK-0069%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "descriptionurl": "https://commons.wikimedia.org/wiki/File:MyPlate_gov_Cultural_Food_(20241025-USDA-FNS-UNK-0069).jpg",
+      "mime": "image/jpeg",
+      "width": 3301,
+      "height": 2475,
+      "size": 1607818,
+      "license": "Public domain",
+      "license_url": "",
+      "artist": "USDAgov",
+      "attribution": ""
+    },
+    "fetched_at": "2026-05-18T15:27:11Z"
+  },
+  {
+    "slug": "mojitos",
+    "item": "Mojitos",
+    "query": "mojito cocktail mint lime",
+    "generated": {
+      "jpg": "public/images/mojitos.jpg",
+      "webp": "public/images/mojitos.webp"
+    },
+    "source": {
+      "title": "File:Mango Mojito – La Casa Restaurant – September 2023 - Sarah Stierch.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/a/a1/Mango_Mojito_%E2%80%93_La_Casa_Restaurant_%E2%80%93_September_2023_-_Sarah_Stierch.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "thumburl": "https://upload.wikimedia.org/wikipedia/commons/a/a1/Mango_Mojito_%E2%80%93_La_Casa_Restaurant_%E2%80%93_September_2023_-_Sarah_Stierch.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "download_url": "https://upload.wikimedia.org/wikipedia/commons/a/a1/Mango_Mojito_%E2%80%93_La_Casa_Restaurant_%E2%80%93_September_2023_-_Sarah_Stierch.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "descriptionurl": "https://commons.wikimedia.org/wiki/File:Mango_Mojito_%E2%80%93_La_Casa_Restaurant_%E2%80%93_September_2023_-_Sarah_Stierch.jpg",
+      "mime": "image/jpeg",
+      "width": 3746,
+      "height": 2746,
+      "size": 4369948,
+      "license": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0",
+      "artist": "Missvain",
+      "attribution": ""
+    },
+    "fetched_at": "2026-05-18T15:27:15Z"
+  },
+  {
+    "slug": "flan",
+    "item": "Flan",
+    "query": "flan dessert caramel",
+    "generated": {
+      "jpg": "public/images/flan.jpg",
+      "webp": "public/images/flan.webp"
+    },
+    "source": {
+      "title": "File:Ginger Creme Caramel at Annie Smithers Bistrot, January 2010.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Ginger_Creme_Caramel_at_Annie_Smithers_Bistrot%2C_January_2010.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "thumburl": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Ginger_Creme_Caramel_at_Annie_Smithers_Bistrot%2C_January_2010.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "download_url": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Ginger_Creme_Caramel_at_Annie_Smithers_Bistrot%2C_January_2010.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "descriptionurl": "https://commons.wikimedia.org/wiki/File:Ginger_Creme_Caramel_at_Annie_Smithers_Bistrot,_January_2010.jpg",
+      "mime": "image/jpeg",
+      "width": 2048,
+      "height": 1370,
+      "size": 284825,
+      "license": "CC BY-SA 2.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+      "artist": "Alpha",
+      "attribution": ""
+    },
+    "fetched_at": "2026-05-18T15:27:18Z"
+  },
+  {
+    "slug": "cuban-sandwich",
+    "item": "Cuban Sandwich",
+    "query": "cuban sandwich food",
+    "generated": {
+      "jpg": "public/images/cuban-sandwich.jpg",
+      "webp": "public/images/cuban-sandwich.webp"
+    },
+    "source": {
+      "title": "File:GreenGoddessLunchNewOrleans1July2009.JPG",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/1/13/GreenGoddessLunchNewOrleans1July2009.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "thumburl": "https://upload.wikimedia.org/wikipedia/commons/1/13/GreenGoddessLunchNewOrleans1July2009.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "download_url": "https://upload.wikimedia.org/wikipedia/commons/1/13/GreenGoddessLunchNewOrleans1July2009.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "descriptionurl": "https://commons.wikimedia.org/wiki/File:GreenGoddessLunchNewOrleans1July2009.JPG",
+      "mime": "image/jpeg",
+      "width": 2112,
+      "height": 2816,
+      "size": 4444990,
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+      "artist": "Infrogmation, New Orleans.",
+      "attribution": ""
+    },
+    "fetched_at": "2026-05-18T15:27:23Z"
+  },
+  {
+    "slug": "pork-ribs",
+    "item": "Pork Ribs",
+    "query": "pork ribs food plate",
+    "generated": {
+      "jpg": "public/images/pork-ribs.jpg",
+      "webp": "public/images/pork-ribs.webp"
+    },
+    "source": {
+      "title": "File:鲜茄炬猪扒饭 Baked pork chop in tomato sauce on rice - Pacific BBQ Cafe (2418784498).jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/2/2f/%E9%B2%9C%E8%8C%84%E7%82%AC%E7%8C%AA%E6%89%92%E9%A5%AD_Baked_pork_chop_in_tomato_sauce_on_rice_-_Pacific_BBQ_Cafe_%282418784498%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "thumburl": "https://upload.wikimedia.org/wikipedia/commons/2/2f/%E9%B2%9C%E8%8C%84%E7%82%AC%E7%8C%AA%E6%89%92%E9%A5%AD_Baked_pork_chop_in_tomato_sauce_on_rice_-_Pacific_BBQ_Cafe_%282418784498%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "download_url": "https://upload.wikimedia.org/wikipedia/commons/2/2f/%E9%B2%9C%E8%8C%84%E7%82%AC%E7%8C%AA%E6%89%92%E9%A5%AD_Baked_pork_chop_in_tomato_sauce_on_rice_-_Pacific_BBQ_Cafe_%282418784498%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "descriptionurl": "https://commons.wikimedia.org/wiki/File:%E9%B2%9C%E8%8C%84%E7%82%AC%E7%8C%AA%E6%89%92%E9%A5%AD_Baked_pork_chop_in_tomato_sauce_on_rice_-_Pacific_BBQ_Cafe_(2418784498).jpg",
+      "mime": "image/jpeg",
+      "width": 2048,
+      "height": 1536,
+      "size": 395817,
+      "license": "CC BY-SA 2.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+      "artist": "Alpha from Melbourne, Australia",
+      "attribution": ""
+    },
+    "fetched_at": "2026-05-18T15:27:26Z"
+  },
+  {
+    "slug": "palomilla-steak",
+    "item": "Palomilla Steak",
+    "query": "beef steak food plate",
+    "generated": {
+      "jpg": "public/images/palomilla-steak.jpg",
+      "webp": "public/images/palomilla-steak.webp"
+    },
+    "source": {
+      "title": "File:HK Mongkok WLB Bank Centre 花園餐廳 Sweetheart Garden food beef steak Italy noodle Spaghetti Feb 2017.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/2/2f/HK_Mongkok_WLB_Bank_Centre_%E8%8A%B1%E5%9C%92%E9%A4%90%E5%BB%B3_Sweetheart_Garden_food_beef_steak_Italy_noodle_Spaghetti_Feb_2017.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "thumburl": "https://upload.wikimedia.org/wikipedia/commons/2/2f/HK_Mongkok_WLB_Bank_Centre_%E8%8A%B1%E5%9C%92%E9%A4%90%E5%BB%B3_Sweetheart_Garden_food_beef_steak_Italy_noodle_Spaghetti_Feb_2017.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "download_url": "https://upload.wikimedia.org/wikipedia/commons/2/2f/HK_Mongkok_WLB_Bank_Centre_%E8%8A%B1%E5%9C%92%E9%A4%90%E5%BB%B3_Sweetheart_Garden_food_beef_steak_Italy_noodle_Spaghetti_Feb_2017.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "descriptionurl": "https://commons.wikimedia.org/wiki/File:HK_Mongkok_WLB_Bank_Centre_%E8%8A%B1%E5%9C%92%E9%A4%90%E5%BB%B3_Sweetheart_Garden_food_beef_steak_Italy_noodle_Spaghetti_Feb_2017.jpg",
+      "mime": "image/jpeg",
+      "width": 2048,
+      "height": 1368,
+      "size": 879037,
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "artist": "Sreak Smiena Parc",
+      "attribution": ""
+    },
+    "fetched_at": "2026-05-18T15:27:29Z"
+  },
+  {
+    "slug": "fish",
+    "item": "Fish",
+    "query": "fried fish fillet food plate",
+    "generated": {
+      "jpg": "public/images/fish.jpg",
+      "webp": "public/images/fish.webp"
+    },
+    "source": {
+      "title": "File:Fish Cutlets.JPG",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/c/c1/Fish_Cutlets.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "thumburl": "https://upload.wikimedia.org/wikipedia/commons/c/c1/Fish_Cutlets.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "download_url": "https://upload.wikimedia.org/wikipedia/commons/c/c1/Fish_Cutlets.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "descriptionurl": "https://commons.wikimedia.org/wiki/File:Fish_Cutlets.JPG",
+      "mime": "image/jpeg",
+      "width": 2364,
+      "height": 2364,
+      "size": 988939,
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "artist": "Shukanto Das",
+      "attribution": ""
+    },
+    "fetched_at": "2026-05-18T15:27:31Z"
+  },
+  {
+    "slug": "french-fries",
+    "item": "French Fries",
+    "query": "french fries food plate",
+    "generated": {
+      "jpg": "public/images/french-fries.jpg",
+      "webp": "public/images/french-fries.webp"
+    },
+    "source": {
+      "title": "File:Hard Rock Cafe French Fries 01.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/1/1e/Hard_Rock_Cafe_French_Fries_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "thumburl": "https://upload.wikimedia.org/wikipedia/commons/1/1e/Hard_Rock_Cafe_French_Fries_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "download_url": "https://upload.wikimedia.org/wikipedia/commons/1/1e/Hard_Rock_Cafe_French_Fries_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "descriptionurl": "https://commons.wikimedia.org/wiki/File:Hard_Rock_Cafe_French_Fries_01.jpg",
+      "mime": "image/jpeg",
+      "width": 2272,
+      "height": 1704,
+      "size": 1046285,
+      "license": "CC BY-SA 3.0",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "artist": "Tewy",
+      "attribution": ""
+    },
+    "fetched_at": "2026-05-18T15:27:34Z"
+  },
+  {
+    "slug": "plantain",
+    "item": "Plantain",
+    "query": "fried plantain tostones",
+    "generated": {
+      "jpg": "public/images/plantain.jpg",
+      "webp": "public/images/plantain.webp"
+    },
+    "source": {
+      "title": "File:Pasapalo Medley.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/b/bc/Pasapalo_Medley.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "thumburl": "https://upload.wikimedia.org/wikipedia/commons/b/bc/Pasapalo_Medley.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "download_url": "https://upload.wikimedia.org/wikipedia/commons/b/bc/Pasapalo_Medley.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "descriptionurl": "https://commons.wikimedia.org/wiki/File:Pasapalo_Medley.jpg",
+      "mime": "image/jpeg",
+      "width": 2048,
+      "height": 1371,
+      "size": 202739,
+      "license": "CC BY-SA 2.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+      "artist": "Alpha",
+      "attribution": ""
+    },
+    "fetched_at": "2026-05-18T15:27:36Z"
   }
 ]
