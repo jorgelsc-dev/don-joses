@@ -5,10 +5,10 @@
       <div class="site-brand">
         <router-link to="/" class="brand-link">
           <img
-            src="/images/logo-don-joses.webp"
+            src="/images/logo-don-joses.png"
             alt="Don Jose's home-style cuban cuisine"
-            width="220"
-            height="78"
+            width="467"
+            height="302"
             class="brand-logo"
             fetchpriority="high"
           />

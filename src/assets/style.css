@@ -84,7 +84,7 @@ textarea {
 }
 
 .brand-logo {
-  width: clamp(150px, 21vw, 220px);
+  width: clamp(120px, 16vw, 180px);
   height: auto;
   border-radius: 10px;
   box-shadow: 0 6px 16px rgba(29, 53, 87, 0.22);
